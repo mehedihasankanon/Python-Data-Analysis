@@ -25,7 +25,7 @@ Each topic contains notebooks with explanations and examples.
 - if `(venv)` appears in your terminal, then it's activated successfully. 
 - now, install the python libraries using this command in your terminal: 
     ```python
-    pip install numpy, pandas, matplotlib
+    pip install numpy pandas matplotlib
     ```
 
 ## Author 
