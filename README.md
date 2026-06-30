@@ -4,6 +4,8 @@ This repository contains my Python learning notebooks.
 
 ## Topics
 
+- Markdown
+
 - Python Basics
 - NumPy
 - Pandas
