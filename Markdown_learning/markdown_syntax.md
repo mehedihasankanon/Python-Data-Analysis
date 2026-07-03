@@ -101,42 +101,42 @@ normal text
     > $y = mx + c$ 
 
 - superscript 
-    - $x^{2a+c}$, $y^3$
+    > $x^{2a+c}$, $y^3$
 
 - subscript 
-    - $x_{2a+c}$, $y_5$
-- display math 
-    $$
-    x^2+y^2 = z^2  \\
+    > $x_{2a+c}$, $y_5$
+- display math   
+    $
+    x^2+y^2 = z^2  \\  
     x_1 + x_2 > 20 
-    $$ 
-- fraction
-    $$ 
+    $ 
+- fraction  
+   > $ 
     \frac{a}{b}
-    $$ 
-- summation 
-    $$
+    $ 
+- summation   
+    > $
     \sum_{i=1}^{n}i  
-    $$
-- product 
-    $$
+    $
+- product   
+    > $
     \prod_{i=1}^{n}i
-    $$ 
-- matrix 
-    $$
+    $ 
+- matrix   
+    > $
     \begin{bmatrix}
     1 & 2 & 3 \\ 
     4 & 5 & 6
     \end{bmatrix}
-    $$
-- Greek letters 
-    - $\alpha$
-    - $\beta$
-    - $\gamma$
-    - $\delta$
-    - $\theta$ 
-- sqrt 
-    $$\sqrt{\sum{x_i^2}}$$
+    $
+- Greek letters   
+    > - $\alpha$
+    > - $\beta$
+    > - $\gamma$
+    > - $\delta$
+    > - $\theta$ 
+- sqrt   
+    > $ \sqrt{\sum{x_i^2}} $
     
 
     
