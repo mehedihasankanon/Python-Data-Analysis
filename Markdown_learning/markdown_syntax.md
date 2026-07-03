@@ -98,45 +98,47 @@ normal text
 --- 
 # Mathematical 
 - inline math  
-    > $y = mx + c$ 
+    $ y = mx + c $ 
 
 - superscript 
-    > $x^{2a+c}$, $y^3$
+    $ x^{2a+c} $, $ y^3 $         
 
 - subscript 
-    > $x_{2a+c}$, $y_5$
+    $ x_{2a+c} $, $ y_5 $        
+
 - display math   
-    $
-    x^2+y^2 = z^2  \\  
+    $$
+    x^2+y^2 = z^2     \\         
     x_1 + x_2 > 20 
-    $ 
+    $$
+
 - fraction  
-   > $ 
-    \frac{a}{b}
-    $ 
+    $ \frac{a}{b} $           
+
 - summation   
-    > $
-    \sum_{i=1}^{n}i  
-    $
+    $ \sum_{i=1}^{n}i $         
+
 - product   
-    > $
-    \prod_{i=1}^{n}i
-    $ 
-- matrix   
-    > $
+    $ \prod_{i=1}^{n}i $        
+
+- matrix         
+    $
     \begin{bmatrix}
-    1 & 2 & 3 \\ 
+    1 & 2 & 3   \\         
     4 & 5 & 6
     \end{bmatrix}
-    $
+    $                   
+
 - Greek letters   
-    > - $\alpha$
-    > - $\beta$
-    > - $\gamma$
-    > - $\delta$
-    > - $\theta$ 
+    - $\alpha$
+    - $\beta$
+    - $\gamma$
+    - $\delta$
+    - $\theta$             
+
 - sqrt   
-    > $ \sqrt{\sum{x_i^2}} $
+    $ \sqrt{\sum{x_i^2}} $        
+
     
 
     
